@@ -22,15 +22,6 @@ This project demonstrates how to utilize Java and Kotlin interoperability.
 
 * MVVM architecture for clean code separation and maintainability.
 
-## Notes
-
-* I built the app based on my understanding of the test.
-
-* I created two activities (Kotlin version and Java version). I commented out the Kotlin version in the manifest, but it is available if you would like to test the app using the Kotlin activity.
-
-* I was unsure whether to use Dependency Injection (Dagger, Hilt, etc.), but I decided against it since it was not mentioned in the test, although it is highly recommended to use DI.
-
-
 ## Setup
 
 1. Clone the repository.
